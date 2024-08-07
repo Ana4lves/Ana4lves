@@ -1,0 +1,4 @@
+- Olá, me chamo Ana
+- Estou me aprofundando mais em programação
+- Atualmente estou estudando Python e JavaScript
+- Irei postar um poucos dos projetos que estou fazendo :)
